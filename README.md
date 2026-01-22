@@ -52,7 +52,7 @@ GROUP PHOTO. Add a group photo here.
 
 - 15% ~750 words
 
-- Describe implementation of your game, in particular highlighting the TWO areas of technical challenge in developing your game. 
+- Describe implementation of your game, in particular highlighting the TWO areas of *technical challenge* in developing your game. 
 
 ### Evaluation
 
